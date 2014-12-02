@@ -5,6 +5,7 @@
   "private": true,
   "main": "index.js",
   "scripts": {
+    "postinstall": "./node_modules/.bin/bower install",
     "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
