@@ -1,0 +1,27 @@
+{
+  "name": "express-multer-dropzone-example",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Sigurd Gartmann <sigurdga@sigurdga.no>"
+  ],
+  "description": "Example of using Multer and Dropzone",
+  "keywords": [
+    "express",
+    "dropzone",
+    "multer",
+    "upload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "dropzone": "~3.12.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "express-multer-dropzone-example",
+  "version": "1.0.0",
+  "description": "Example of using Multer and Dropzone",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/sigurdga/express-multer-dropzone-example"
+  },
+  "keywords": [
+    "express",
+    "dropzone",
+    "multer",
+    "upload"
+  ],
+  "author": "Sigurd Gartmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sigurdga/express-multer-dropzone-example/issues"
+  },
+  "homepage": "https://github.com/sigurdga/express-multer-dropzone-example",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "bower": "^1.3.12",
+    "express": "^4.10.4",
+    "multer": "^0.1.6"
+  }
+}
